@@ -1,0 +1,17 @@
+{
+  "name": "paged_api_request",
+  "version": "0.0.1",
+  "description": "Make requests to a paged API until no more pages are available.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "request",
+    "paged",
+    "async"
+  ],
+  "author": "Jessamyn Smith",
+  "license": "MIT"
+}
