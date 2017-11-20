@@ -1,6 +1,6 @@
 # paged-api-request
 
-This is an example of making an API call recursively until there are no more pages to retrieve.
+An example of making an API call recursively with node until there are no more pages to retrieve.
 
 
 Like my work? Tip me! https://www.paypal.me/jessamynsmith
